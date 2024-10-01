@@ -1,4 +1,4 @@
-"use client"; // Ensures this is a client-side component
+"use client";
 
 import { Button } from "@/components/ui/button";
 import { useState, useRef, useEffect } from "react";
